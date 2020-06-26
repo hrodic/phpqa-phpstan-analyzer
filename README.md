@@ -1,0 +1,1 @@
+# phpqa-phpstan-analyzer
